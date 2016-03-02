@@ -1,7 +1,7 @@
 name: Clarity
 favicon: null
-layout_spectrum: 0.3931609350256622
-typography_spectrum: 0.37504102010279894
+layout_spectrum: 1
+typography_spectrum: 0.60227
 title: 'Portfolio of Albert Martinez | Web Designer & Developer'
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.04227647138759494
-  lightness: 0.446647648466751
-  saturation: 0.46477621141821146
-  rhythmicContrast: 0.8202633715700358
+  brandStrength: 0.875
+  lightness: 0.4375
+  saturation: 0.75
+  rhythmicContrast: 0.75
 purpose: []

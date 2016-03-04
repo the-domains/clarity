@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Clarity]]></title>
-        <description><![CDATA[Clarity]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Portfolio of Albert Martinez | Web Designer & Developer]]></title>
+        <description><![CDATA[Portfolio of Albert Martinez | Web Designer & Developer]]></description>
+        <link>https://thegrid.ai/clarity/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 06:43:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 21:00:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/clarity/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee9873ea-d982-4233-a426-1a0f284ad6f7.jpg">]]></description>
+            <link>https://thegrid.ai/clarity/915b259b-4b80-45e4-b3de-74466976fac0/index.html</link>
+            <guid isPermaLink="false">915b259b-4b80-45e4-b3de-74466976fac0</guid>
+            <pubDate>Fri, 04 Mar 2016 21:00:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a54abb52-06e8-4425-a8db-f8176e284162.jpg">]]></description>
-            <link>undefinedce162e49-e3e5-4006-8d87-97e1404d928f/index.html</link>
+            <link>https://thegrid.ai/clarity/ce162e49-e3e5-4006-8d87-97e1404d928f/index.html</link>
             <guid isPermaLink="false">ce162e49-e3e5-4006-8d87-97e1404d928f</guid>
             <pubDate>Wed, 02 Mar 2016 06:41:16 GMT</pubDate>
         </item>

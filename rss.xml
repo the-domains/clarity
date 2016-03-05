@@ -4,21 +4,21 @@
         <description><![CDATA[Portfolio of Albert Martinez | Web Designer & Developer]]></description>
         <link>https://thegrid.ai/clarity/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 00:52:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 00:54:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/clarity/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Clarity]]></title>
+            <description><![CDATA[<article><h1>Clarity</h1><p>Hello World! My name is Albert Martinez and I dare to change the world. One project (sometimes several) at a time.  </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d8bfc76-988e-4371-9ad6-9628c4380afb.png"></article>]]></description>
+            <link>https://thegrid.ai/clarity/ce162e49-e3e5-4006-8d87-97e1404d928f/index.html</link>
+            <guid isPermaLink="false">ce162e49-e3e5-4006-8d87-97e1404d928f</guid>
+            <pubDate>Sat, 05 Mar 2016 00:54:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Zieglers Hardware & Supply ]]></title>
             <description><![CDATA[<article><h1>Zieglers Hardware & Supply </h1><h2>Logo +  Branding Collateral</h2><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/98c9be5f06d1fcc3f59b3e7e17c9b806ab91deb2.jpg"></article>]]></description>
             <link>https://thegrid.ai/clarity/915b259b-4b80-45e4-b3de-74466976fac0/index.html</link>
             <guid isPermaLink="false">915b259b-4b80-45e4-b3de-74466976fac0</guid>
             <pubDate>Sat, 05 Mar 2016 00:51:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a54abb52-06e8-4425-a8db-f8176e284162.jpg">]]></description>
-            <link>https://thegrid.ai/clarity/ce162e49-e3e5-4006-8d87-97e1404d928f/index.html</link>
-            <guid isPermaLink="false">ce162e49-e3e5-4006-8d87-97e1404d928f</guid>
-            <pubDate>Wed, 02 Mar 2016 06:41:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
